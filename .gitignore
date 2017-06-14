@@ -29,3 +29,5 @@ hs_err_pid*
 /Factory Method/build/
 /Decorator/nbproject/private/
 /Decorator/build/
+/Visitor/nbproject/private/
+/Visitor/build/
